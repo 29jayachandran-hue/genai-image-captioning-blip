@@ -84,7 +84,7 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 
 ### OUTPUT:
 
-<img width="1125" height="743" alt="Screenshot 2026-09-09 213111" src="https://github.com/user-attachments/assets/acb67313-3de9-4360-956d-e6ae0d20b1b4" />
+![Image Captioning Output](Screenshot 2026-09-09 213111.png)
 
 
 
